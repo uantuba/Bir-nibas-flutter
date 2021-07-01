@@ -1,0 +1,4 @@
+#Thu Jul 01 16:04:56 BDT 2021
+base.0=/Users/agamilabs/Desktop/user_list_searching/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
